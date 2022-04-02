@@ -2,3 +2,5 @@ uno
 dos
 tres
 cuatro
+
+TAREA PARA PROXIMA CLASE PRACTICAR TODO ESTO
